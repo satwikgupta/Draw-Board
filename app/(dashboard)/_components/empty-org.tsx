@@ -15,9 +15,9 @@ export const EmptyOrg = () => {
       width={200}
       height={200}
       />
-      <h2 className=" text-2xl font-semibold mt-8">Welcome to Board</h2>
+      <h2 className=" text-2xl font-semibold mt-8">Welcome to Draw Board</h2>
       <p className=" text-muted-foreground text-sm mt-2">
-        Create an organization to gey started.
+        Create an organization to get started.
       </p>
       <div className="mt-6">
         <Dialog>
